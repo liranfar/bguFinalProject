@@ -1,0 +1,1 @@
+python /cuckoo-droid-git/web_android/manage.py runserver
